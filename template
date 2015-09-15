@@ -1,0 +1,5 @@
+
+for (( i = 1  ; i < 50 ; i++)) ; do  curl -i https://api.github.com/users/cyanogenmod/repos?page=$i >> cyg.repo ; done
+
+
+cat cyg.repo | sed -ne '/.*git_url.*/ s/.*git_url.*CyanogenMod\/\([^.]*\).*/  <project name="CyanogenMod\/\1" \/\>/p'
