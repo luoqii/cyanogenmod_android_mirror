@@ -7,7 +7,7 @@
            remote="github"
            sync-j="4" />
 
-<!--
+
   <project name="CyanogenMod/android" />
   <project name="CyanogenMod/AndroidAsync" />
   <project name="CyanogenMod/android_abi_cpp" />
@@ -1131,10 +1131,10 @@
   <project name="CyanogenMod/android_kernel_yu_msm8916" />
   <project name="CyanogenMod/android_libcore" />
   <project name="CyanogenMod/android_libnativehelper" />
-  <project name="CyanogenMod/android_ndk" /> -->
+  <project name="CyanogenMod/android_ndk" />
   <project name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
   <project name="CyanogenMod/android_packages_apps_ADWLauncher" />
-<!--
+
   <project name="CyanogenMod/android_packages_apps_AicBootFix" />
   <project name="CyanogenMod/android_packages_apps_AndroidTerm" />
   <project name="CyanogenMod/android_packages_apps_Apollo" />
@@ -1368,5 +1368,5 @@
   <project name="CyanogenMod/tools_repo" />
   <project name="CyanogenMod/Widgets" />
   <project name="CyanogenMod/zte-kernel-msm7x27" />
--->
+
 </manifest>
