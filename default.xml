@@ -8,6 +8,7 @@
            sync-j="4" />
 
 
+  <!-- CyanogenMod repo -->
   <project name="CyanogenMod/android" />
   <project name="CyanogenMod/AndroidAsync" />
   <project name="CyanogenMod/android_abi_cpp" />
@@ -572,7 +573,7 @@
   <project name="CyanogenMod/android_device_zte_v9" />
   <project name="CyanogenMod/android_device_zte_warp2" />
   <project name="CyanogenMod/android_device_zte_x500" />
-  <project name="CyanogenMod/android_docs_source" />
+  <project name="CyanogenMod/android_docs_source.android.com" />
   <project name="CyanogenMod/android_external_aac" />
   <project name="CyanogenMod/android_external_alsa-lib" />
   <project name="CyanogenMod/android_external_alsa-utils" />
@@ -1134,7 +1135,6 @@
   <project name="CyanogenMod/android_ndk" />
   <project name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
   <project name="CyanogenMod/android_packages_apps_ADWLauncher" />
-
   <project name="CyanogenMod/android_packages_apps_AicBootFix" />
   <project name="CyanogenMod/android_packages_apps_AndroidTerm" />
   <project name="CyanogenMod/android_packages_apps_Apollo" />
@@ -1262,11 +1262,11 @@
   <project name="CyanogenMod/android_pdk" />
   <project name="CyanogenMod/android_prebuilt" />
   <project name="CyanogenMod/android_prebuilts_cmsdk" />
-  <project name="CyanogenMod/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4" />
-  <project name="CyanogenMod/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4" />
-  <project name="CyanogenMod/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4" />
-  <project name="CyanogenMod/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4" />
-  <project name="CyanogenMod/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4" />
+  <project name="CyanogenMod/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" />
+  <project name="CyanogenMod/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
+  <project name="CyanogenMod/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9" />
+  <project name="CyanogenMod/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" />
+  <project name="CyanogenMod/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" />
   <project name="CyanogenMod/android_prebuilts_misc" />
   <project name="CyanogenMod/android_prebuilts_ndk" />
   <project name="CyanogenMod/android_prebuilts_tools" />
@@ -1308,20 +1308,20 @@
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_v8" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
-  <project name="CyanogenMod/android_vendor_tmobile_libs_com" />
+  <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project name="CyanogenMod/android_vendor_tmobile_products_themes" />
   <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project name="CyanogenMod/android_vendor_tmobile_themes_Androidian" />
   <project name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
-  <project name="CyanogenMod/AR6kSDK" />
+  <project name="CyanogenMod/AR6kSDK.3.1" />
   <project name="CyanogenMod/cm-kernel" />
   <project name="CyanogenMod/cm-less" />
   <project name="CyanogenMod/CMAccountWebsite" />
   <project name="CyanogenMod/CMBalance" />
   <project name="CyanogenMod/cm_crowdin" />
   <project name="CyanogenMod/cm_platform_sdk" />
-  <project name="CyanogenMod/CyanogenMod-android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4" />
-  <project name="CyanogenMod/CyanogenMod-android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4" />
+  <project name="CyanogenMod/CyanogenMod-android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" />
+  <project name="CyanogenMod/CyanogenMod-android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" />
   <project name="CyanogenMod/device_htc_marvel" />
   <project name="CyanogenMod/device_htc_ville" />
   <project name="CyanogenMod/external_android_support-prebuilt" />
@@ -1368,5 +1368,4 @@
   <project name="CyanogenMod/tools_repo" />
   <project name="CyanogenMod/Widgets" />
   <project name="CyanogenMod/zte-kernel-msm7x27" />
-
 </manifest>
