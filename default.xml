@@ -7,7 +7,8 @@
            remote="github"
            sync-j="4" />
 
-
+  <!--CyanogenMod android -->
+  <project path="mirror" name="CyanogenMod/android" />
   <!-- CyanogenMod repo -->
   <project path="build" name="CyanogenMod/android_build" />
   <project path="android" name="CyanogenMod/android" />
