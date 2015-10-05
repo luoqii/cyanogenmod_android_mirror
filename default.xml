@@ -10,6 +10,7 @@
   <!-- new manifest repo -->
   <project path="luoqii/cyanogenmod-android-manifest" name="luoqii/cyanogenmod-android-manifest"/>
   <!-- CyanogenMod repo -->
+  <!-- htc one X -->
   <project path="build" name="CyanogenMod/android_build" />
   <project path="android" name="CyanogenMod/android" />
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
