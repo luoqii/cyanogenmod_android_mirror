@@ -9,10 +9,6 @@
 
   <!-- new manifest repo -->
   <project path="luoqii/cyanogenmod-android-manifest" name="luoqii/cyanogenmod-android-manifest"/>
-  <!-- htc one x -->
-  <project path="device/htc/endeavoru" name="CyanogenMod/android_kernel_htc_endeavoru" />
-  <project path="device/kernel/htc/endeavoru" name="CyanogenMod/android_device_htc_endeavoru" />
-  
   <!-- CyanogenMod repo -->
   <project path="build" name="CyanogenMod/android_build" />
   <project path="android" name="CyanogenMod/android" />
@@ -22,7 +18,7 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="cts" name="CyanogenMod/android_cts" />
   <project path="development" name="CyanogenMod/android_development" />
-  <project path="device/common" name="CyanogenMod/android_device_common" >
+  <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/generic/arm64" name="CyanogenMod/android_device_generic_arm64" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" />
