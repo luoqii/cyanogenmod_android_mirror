@@ -9,10 +9,6 @@
 
   <!-- new manifest repo -->
   <project path="luoqii/cyanogenmod-android-manifest" name="luoqii/cyanogenmod-android-manifest"/>
-  <!--  htc one x
-  <project path="device/htc/endeavoru" name="CyanogenMod/android_device_htc_endeavoru"/>
-  <project path="device/bl/bl/a" name="CyanogenMod/android_kernel_htc_endeavoru"/> -->
-  <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_kernel_htc_endeavoru"/>
   
   <!-- CyanogenMod repo -->
   <project path="build" name="CyanogenMod/android_build" />
