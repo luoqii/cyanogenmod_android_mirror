@@ -11,7 +11,7 @@
   <project path="luoqii/cyanogenmod-android-manifest" name="luoqii/cyanogenmod-android-manifest"/>
   <!-- CyanogenMod repo -->
   <!-- htc one X -->
-  <project path="build" name="CyanogenMod/android_kernel_htc_endeavoru" />
+  <project path="a/build" name="CyanogenMod/android_kernel_htc_endeavoru" />
   
   <project path="build" name="CyanogenMod/android_build" />
   <project path="android" name="CyanogenMod/android" />
