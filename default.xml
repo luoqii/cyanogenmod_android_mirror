@@ -12,6 +12,7 @@
   <!-- htc one X -->
   <project path="kernel/htc/endeavoru" name="CyanogenMod/android_kernel_htc_endeavoru" />
   <project path="device/htc/endeavoru" name="CyanogenMod/android_device_htc_endeavoru" />
+  <project path="device/htc/tegra3-common" name="CyanogenMod/android_device_htc_tegra3-common" />
   
   <!-- CyanogenMod repo -->
   <project path="build" name="CyanogenMod/android_build" />
