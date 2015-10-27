@@ -14,6 +14,14 @@
   <project path="device/htc/endeavoru" name="CyanogenMod/android_device_htc_endeavoru" />
   <project path="device/htc/tegra3-common" name="CyanogenMod/android_device_htc_tegra3-common" />
   
+  <!-- p3100 -->
+  <project path="device/samsung/p3100" name="CyanogenMod/android_device_samsung_p3100" />
+  <project path="kernel/samsung/espresso10" name="CyanogenMod/android_kernel_samsung_espresso10"/>
+  
+  <!-- manta -->
+  <project path="device/samsung/manta" name="CyanogenMod/android_device_samsung_manta" />
+  <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta"/>
+  
   <!-- CyanogenMod repo -->
   <project path="build" name="CyanogenMod/android_build" />
   <project path="android" name="CyanogenMod/android" />
@@ -31,11 +39,6 @@
   <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" />
   <project path="device/google/atv" name="CyanogenMod/android_device_google_atv" />
   <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" />
-  <project path="device/samsung/manta" name="CyanogenMod/android_device_samsung_manta" />
-  <project path="device/blabla/blabal" name="CyanogenMod/android_kernel_samsung_manta"/>
-  
-  <project path="device/samsung/p3100" name="CyanogenMod/android_device_samsung_p3100" />
-  <project path="kernel/samsung/espresso10" name="CyanogenMod/android_kernel_samsung_espresso10"/>
   
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
